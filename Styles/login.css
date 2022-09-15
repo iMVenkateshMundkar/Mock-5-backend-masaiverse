@@ -1,0 +1,56 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+#loginMain{
+    border: 1px solid rgb(38, 38, 38);
+    border-radius: 10px;
+    width: 35%;
+    padding: 1rem;
+    margin: 100px auto;
+    text-align: center;
+}
+
+#loginForm{
+    width: 80%;
+    padding: 1rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+}
+
+#loginForm div{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#loginForm input{
+    height: 30px;
+    width: 250px;
+    padding-left: 15px;
+    font-size: 16px;
+    color: rgb(38, 38, 38);
+    outline: none;
+}
+
+#loginForm label{
+    font-size: 19px;
+}
+
+#loginForm button{
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 7px 45px;
+    background-color: rgb(38, 38, 38);
+    color: rgb(245, 245, 245);
+}
+
+#loginForm button:hover{
+    cursor: pointer;
+    opacity: 0.85;
+}

@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "yogesh",
+      "age": "26",
+      "place": "thane",
+      "batch_name": "WEB-13",
+      "profession": "Frontend",
+      "id": 4
+    },
+    {
+      "name": "Albert",
+      "age": "30",
+      "place": "banglore",
+      "batch_name": "WEB-14",
+      "profession": "FSD",
+      "id": 5
+    },
+    {
+      "name": "akash",
+      "age": "22",
+      "place": "mumbai",
+      "batch_name": "WEB-15",
+      "profession": "FSD",
+      "id": 6
+    },
+    {
+      "name": "sameer",
+      "age": "26",
+      "place": "pune",
+      "batch_name": "WEB-16",
+      "profession": "Student",
+      "id": 7
+    }
+  ]
+}
